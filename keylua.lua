@@ -1,2 +1,2 @@
-local key = "zcFc4k62lDb8UDY"
+local key = "tdk14lDmjX1jgwJ"
 return key
